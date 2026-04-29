@@ -18,5 +18,6 @@ Le but est de faire le meilleur score possible sans heurter les murs ou son prop
 
 ### 1. Cloner le dépôt
 ```bash
-git clone
-cd
+git clone https://github.com/LynaIftene6/Jeu-du-Snake---Python-POO---L1-Informatique.git
+cd Jeu-du-Snake---Python-POO---L1-Informatique
+python Projet_03_Snake_Game.py
