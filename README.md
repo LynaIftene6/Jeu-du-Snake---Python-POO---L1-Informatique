@@ -6,7 +6,7 @@ Le but est de faire le meilleur score possible sans heurter les murs ou son prop
 
 ---
 
-## 🧰 Technologies utilisées
+## Technologies utilisées
 
 - Python 3
 - Programmation orientée objet 
@@ -14,7 +14,7 @@ Le but est de faire le meilleur score possible sans heurter les murs ou son prop
 
 ---
 
-## 🚀 Lancer le projet
+## Lancer le projet
 
 ### 1. Cloner le dépôt
 ```bash
